@@ -10,4 +10,4 @@
 ### Week #2 (30June)
 
 - Monday: Theory Advanced JS: [All](https://learn.javascript.ru)
-- Tuesday: Learn React Tutorial: [React Hooks]: (https://react.dev/reference/react/hooks)
+- Tuesday: Learn React Tutorial: [React Hooks](https://react.dev/reference/react/hooks)
